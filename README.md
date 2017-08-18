@@ -1,1 +1,8 @@
-# gitbook_deep_learning
+# Deep Learning
+
+
+
+note for deep learning by larry
+
+
+
