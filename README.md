@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-# Deep Learning 
-=======
-# Deep Learning
+# Deep Learning Note
+
+This repositotry contains Jupter Python Notebook and snippets for Deep Learning.
 
 
 
-note for deep learning by larry
-
-
-
->>>>>>> a22b22530e6be8db4ce4a097becd30a21b524983
+* Coursera Specialization: Deep Learning
+* CS20S1 TensorFlow for Deep Learning
+* CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 LiFeiFei
