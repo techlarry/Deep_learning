@@ -1,0 +1,702 @@
+[W 03:47:33.898 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:47:33.898 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:47:33.902 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 03:47:33.902 NotebookApp] 0 active kernels 
+[I 03:47:33.902 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 03:47:33.902 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:47:55.557 NotebookApp] 302 GET / (122.226.185.103) 0.34ms
+[I 03:48:14.001 NotebookApp] Interrupted...
+[I 03:48:14.001 NotebookApp] Shutting down kernels
+[W 03:53:21.089 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:53:21.089 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:53:21.093 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 03:53:21.093 NotebookApp] 0 active kernels 
+[I 03:53:21.093 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 03:53:21.093 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:53:44.183 NotebookApp] 302 GET / (122.226.185.126) 0.35ms
+[I 03:53:44.581 NotebookApp] 302 GET / (122.226.185.127) 0.32ms
+[I 03:54:02.739 NotebookApp] Writing notebook-signing key to /home/larry/.local/share/jupyter/notebook_secret
+[W 03:54:02.741 NotebookApp] Notebook StyleTransfer-TensorFlow.ipynb is not trusted
+[I 03:54:03.492 NotebookApp] 302 GET /notebooks/example_styletransfer.png (36.102.208.24) 0.82ms
+[I 03:54:04.277 NotebookApp] Kernel started: 61d31f44-df91-45c4-b70d-f9879b1e4040
+[I 03:56:06.104 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:01:21.381 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:14:13.900 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[W 04:16:35.712 NotebookApp] WebSocket ping timeout after 118597 ms.
+[I 04:28:23.399 NotebookApp] Kernel interrupted: 61d31f44-df91-45c4-b70d-f9879b1e4040
+[I 04:28:25.278 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 04:29:08.383 NotebookApp] 302 GET /notebooks/example_styletransfer.png (36.102.208.25) 0.87ms
+2017-09-18 04:29:52.166941: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:29:52.166974: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:29:52.166980: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:29:52.166985: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:29:52.166989: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 04:31:56.693 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:33:54.176 NotebookApp] Saving file at /cs231n/classifiers/squeezenet.py
+[I 04:33:55.012 NotebookApp] Saving file at /cs231n/classifiers/squeezenet.py
+[I 04:34:15.440 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[W 04:34:31.009 NotebookApp] Notebook NetworkVisualization-TensorFlow.ipynb is not trusted
+[I 04:34:32.480 NotebookApp] Kernel started: 581046ee-3934-48a8-86d3-59d8e2355ebb
+[W 04:34:36.445 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (59.53.67.245) 6.20ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow.ipynb
+2017-09-18 04:34:53.042424: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:34:53.042460: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:34:53.042466: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:34:53.042470: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-18 04:34:53.042475: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 04:36:36.922 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 04:36:45.099 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[C 07:13:42.404 NotebookApp] received signal 15, stopping
+[I 07:13:42.404 NotebookApp] Shutting down kernels
+[I 07:13:42.506 NotebookApp] Kernel shutdown: 61d31f44-df91-45c4-b70d-f9879b1e4040
+[I 07:13:42.506 NotebookApp] Kernel shutdown: 581046ee-3934-48a8-86d3-59d8e2355ebb
+[W 16:33:54.742 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:33:54.762 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:33:54.780 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 16:33:54.780 NotebookApp] 0 active kernels 
+[I 16:33:54.780 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 16:33:54.780 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:34:18.694 NotebookApp] Notebook NetworkVisualization-TensorFlow_other.ipynb is not trusted
+[I 16:34:21.264 NotebookApp] Kernel started: 1fe66bfa-3823-444d-b9cc-b662bb6c41e4
+[I 16:34:23.478 NotebookApp] Kernel started: f2cfcc41-22b9-4846-a595-169113205c1d
+[W 16:34:34.665 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 149.02ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow_other.ipynb
+[I 16:35:03.268 NotebookApp] Saving file at /NetworkVisualization-TensorFlow_other.ipynb
+[W 16:35:03.269 NotebookApp] Saving untrusted notebook NetworkVisualization-TensorFlow_other.ipynb
+2017-09-19 16:35:16.182634: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:35:16.182683: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:35:16.182689: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:35:16.182694: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:35:16.182698: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 16:36:42.976 NotebookApp] Saving file at /NetworkVisualization-TensorFlow_other.ipynb
+[W 16:36:42.977 NotebookApp] Saving untrusted notebook NetworkVisualization-TensorFlow_other.ipynb
+[W 16:37:30.663 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 1.41ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow.ipynb
+2017-09-19 16:38:21.468335: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:21.468383: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:21.468389: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:21.468393: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:21.468398: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 16:38:24.243 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 1fe66bfa-3823-444d-b9cc-b662bb6c41e4 restarted
+2017-09-19 16:38:35.476209: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:35.476251: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:35.476258: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:35.476263: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:35.476268: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 16:38:36.249 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 1fe66bfa-3823-444d-b9cc-b662bb6c41e4 restarted
+[I 16:38:39.358 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+2017-09-19 16:38:50.501818: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:50.501866: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:50.501872: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:50.501876: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:38:50.501881: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 16:38:54.255 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 1fe66bfa-3823-444d-b9cc-b662bb6c41e4 restarted
+2017-09-19 16:40:04.299967: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:40:04.300021: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:40:04.300028: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:40:04.300033: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:40:04.300037: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[W 16:40:19.132 NotebookApp] Notebook NetworkVisualization-TensorFlow_other.ipynb is not trusted
+[W 16:40:29.945 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 1.62ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow_other.ipynb
+[I 16:40:41.853 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 16:40:43.407 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 16:40:48.316 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 16:41:31.278 NotebookApp] Kernel shutdown: f2cfcc41-22b9-4846-a595-169113205c1d
+[W 16:41:34.185 NotebookApp] delete /NetworkVisualization-TensorFlow_other.ipynb
+[I 16:41:50.900 NotebookApp] 302 GET /notebooks/example_styletransfer.png (67.216.210.212) 0.61ms
+[I 16:41:51.472 NotebookApp] Kernel started: c841d977-2dd2-4efe-ad06-337a4d03cf42
+[W 16:52:02.342 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 1.45ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow.ipynb
+[W 16:53:29.070 NotebookApp] Notebook test/NetworkVisualization-TensorFlow.ipynb is not trusted
+[I 16:53:33.384 NotebookApp] Kernel started: 785d0033-db47-404d-b4bd-6b55f46cd897
+[W 16:53:37.785 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 1.64ms referer=http://104.198.105.34:8000/notebooks/test/NetworkVisualization-TensorFlow.ipynb
+[W 16:55:21.694 NotebookApp] delete /test
+[W 16:55:21.744 NotebookApp] Directory /home/larry/assignment1/test not empty
+[W 16:55:21.745 NotebookApp] 400 DELETE /api/contents/test (67.216.210.212) 51.55ms referer=http://104.198.105.34:8000/tree
+[W 16:55:37.630 NotebookApp] Notebook test.ipynb is not trusted
+[I 16:55:41.862 NotebookApp] Kernel started: eb834648-eb03-479f-a60c-7557a852c275
+2017-09-19 16:55:45.946037: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:55:45.946085: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:55:45.946091: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:55:45.946095: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:55:45.946111: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[W 16:55:46.269 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (67.216.210.212) 1.84ms referer=http://104.198.105.34:8000/notebooks/test.ipynb
+[I 16:57:38.123 NotebookApp] Kernel restarted: 1fe66bfa-3823-444d-b9cc-b662bb6c41e4
+[W 16:57:38.125 NotebookApp] zmq message arrived on closed channel
+2017-09-19 16:57:42.875098: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:57:42.875148: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:57:42.875155: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:57:42.875160: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-19 16:57:42.875164: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 16:57:46.892 NotebookApp] Saving file at /test.ipynb
+[W 16:57:46.893 NotebookApp] Saving untrusted notebook test.ipynb
+[I 16:58:07.785 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:00:07.715 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:00:10.957 NotebookApp] Saving file at /test.ipynb
+[W 17:00:10.958 NotebookApp] Saving untrusted notebook test.ipynb
+[I 17:00:33.039 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:01:46.639 NotebookApp] Kernel shutdown: eb834648-eb03-479f-a60c-7557a852c275
+[W 17:01:46.641 NotebookApp] delete /test.ipynb
+[I 17:02:07.232 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:02:11.305 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:02:18.092 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:02:19.727 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:02:32.726 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 17:02:38.480 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 17:03:07.973 NotebookApp] Notebook GANs-TensorFlow.ipynb is not trusted
+[I 17:03:09.026 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (67.216.210.212) 0.75ms
+[I 17:03:10.311 NotebookApp] Kernel started: aa370585-2323-4013-bb48-ab42af61dae4
+[C 17:09:30.489 NotebookApp] received signal 15, stopping
+[I 17:09:30.490 NotebookApp] Shutting down kernels
+[I 17:09:30.591 NotebookApp] Kernel shutdown: c841d977-2dd2-4efe-ad06-337a4d03cf42
+[I 17:09:30.592 NotebookApp] Kernel shutdown: 1fe66bfa-3823-444d-b9cc-b662bb6c41e4
+[I 17:09:30.592 NotebookApp] Kernel shutdown: 785d0033-db47-404d-b4bd-6b55f46cd897
+[I 17:09:30.592 NotebookApp] Kernel shutdown: aa370585-2323-4013-bb48-ab42af61dae4
+[W 02:57:02.784 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 02:57:02.785 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 02:57:02.807 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 02:57:02.808 NotebookApp] 0 active kernels 
+[I 02:57:02.808 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 02:57:02.808 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 02:57:11.623 NotebookApp] 302 GET /notebooks/example_styletransfer.png (67.216.210.212) 0.90ms
+[I 02:57:12.714 NotebookApp] Kernel started: 3d8be471-b943-4946-9d44-9e4e121ee0f1
+[W 02:57:18.368 NotebookApp] Notebook GANs-TensorFlow.ipynb is not trusted
+[I 02:57:20.352 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (67.216.210.212) 0.89ms
+[I 02:57:21.821 NotebookApp] Kernel started: 77bdd912-7666-42b6-9ddc-f20159329635
+[I 03:01:14.467 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 03:04:22.756 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 03:04:41.638 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+2017-09-20 03:05:39.756822: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:05:39.756889: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:05:39.756901: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:05:39.756910: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:05:39.756919: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 03:11:20.822 NotebookApp] Kernel started: d84a44da-8eb5-45a5-b2f1-aa18a53b021e
+[W 03:11:25.697 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (36.102.208.24) 131.97ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow.ipynb
+[I 03:13:36.536 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 03:15:38.465 NotebookApp] WebSocket ping timeout after 119629 ms.
+[I 03:16:04.377 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+2017-09-20 03:16:08.539952: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:16:08.539993: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:16:08.540000: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:16:08.540004: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:16:08.540009: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 03:16:30.360 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:19:09.349 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:19:14.578 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:20:36.403 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:21:09.333 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:22:46.053 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 03:27:05.164 NotebookApp] WebSocket ping timeout after 119749 ms.
+[W 03:27:09.762 NotebookApp] WebSocket ping timeout after 119735 ms.
+[I 03:27:39.869 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:27:40.950 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:27:42.067 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:27:42.463 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:27:46.486 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:27:46.746 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:28:19.597 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:28:24.319 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 03:28:46.431 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:28:46.778 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 03:29:24.115 NotebookApp] 302 GET /notebooks/example_styletransfer.png (122.226.185.126) 0.86ms
+[I 03:33:26.395 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 03:35:26.932 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 03:36:55.735 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 03:36:57.748 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[W 03:39:23.782 NotebookApp] WebSocket ping timeout after 119743 ms.
+[W 03:39:25.563 NotebookApp] WebSocket ping timeout after 119761 ms.
+[W 03:41:09.890 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.5.3 (36.102.208.24) 1.44ms referer=http://104.198.105.34:8000/notebooks/NetworkVisualization-TensorFlow.ipynb
+[I 03:42:55.484 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 03:52:48.573 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 03:55:05.279 NotebookApp] Kernel restarted: d84a44da-8eb5-45a5-b2f1-aa18a53b021e
+2017-09-20 03:55:09.231523: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:55:09.231566: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:55:09.231573: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:55:09.231578: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 03:55:09.231583: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 03:55:35.340 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:56:42.811 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:56:46.017 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:58:54.827 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:59:37.833 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[I 03:59:49.260 NotebookApp] Saving file at /NetworkVisualization-TensorFlow.ipynb
+[W 04:15:11.402 NotebookApp] WebSocket ping timeout after 119712 ms.
+[W 04:15:24.700 NotebookApp] WebSocket ping timeout after 119713 ms.
+[I 04:24:30.917 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:26:30.756 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:28:31.184 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:30:15.555 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:30:30.166 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:32:30.985 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:34:39.386 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:36:31.332 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:38:07.247 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:38:30.244 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:40:30.981 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:44:31.085 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:46:00.602 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:46:08.147 NotebookApp] Kernel restarted: 3d8be471-b943-4946-9d44-9e4e121ee0f1
+[W 04:46:15.640 NotebookApp] WebSocket ping timeout after 119595 ms.
+[I 04:46:23.787 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:46:34.820 NotebookApp] 302 GET /notebooks/example_styletransfer.png (67.216.210.212) 0.70ms
+2017-09-20 04:47:06.814243: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 04:47:06.814291: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 04:47:06.814298: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 04:47:06.814303: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 04:47:06.814307: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 04:48:37.480 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:52:37.440 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:56:16.687 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:56:18.435 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:58:23.048 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:58:25.970 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:58:27.105 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 04:58:38.083 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:00:38.326 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:06:38.459 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:10:22.474 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:10:23.962 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:10:40.145 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:12:06.109 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[W 05:12:38.007 NotebookApp] WebSocket ping timeout after 119638 ms.
+[I 05:12:54.705 NotebookApp] 302 GET /notebooks/example_styletransfer.png (67.216.210.212) 1.03ms
+[I 05:14:57.006 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:16:10.539 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:16:11.756 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:16:56.324 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:20:56.698 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:22:56.464 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:26:36.359 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:26:45.901 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:26:48.199 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:26:55.766 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:26:59.328 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:27:01.656 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:27:01.709 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:27:46.424 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:28:57.636 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:30:56.646 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:32:17.749 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:37:32.273 NotebookApp] 302 GET /notebooks/example_styletransfer.png (36.102.208.25) 0.87ms
+[W 05:38:53.629 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 05:40:01.212 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:49:45.611 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:54:10.416 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:55:17.812 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:55:18.320 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:55:24.678 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:57:42.876 NotebookApp] Saving file at /StyleTransfer-TensorFlow.ipynb
+[I 05:57:50.733 NotebookApp] Kernel shutdown: 3d8be471-b943-4946-9d44-9e4e121ee0f1
+[I 05:57:52.149 NotebookApp] Kernel shutdown: 77bdd912-7666-42b6-9ddc-f20159329635
+[W 05:58:01.676 NotebookApp] Notebook GANs-TensorFlow.ipynb is not trusted
+[I 05:58:03.083 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (36.102.208.25) 0.65ms
+[I 05:58:04.077 NotebookApp] Kernel started: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+[W 06:11:34.753 NotebookApp] WebSocket ping timeout after 119715 ms.
+[I 06:33:26.511 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 06:35:26.765 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+2017-09-20 06:49:22.464003: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 06:49:22.464045: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 06:49:22.464052: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 06:49:22.464057: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 06:49:22.464062: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 06:49:31.542 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 06:49:31.620 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 06:51:50.477 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (122.226.185.113) 0.95ms
+[I 06:52:50.272 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (36.102.228.27) 0.90ms
+[I 06:53:13.981 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (36.102.208.24) 1.26ms
+[I 06:53:43.966 NotebookApp] Kernel interrupted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+[I 06:53:46.077 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel f1f6ab89-490a-4646-bf02-3cc68873c7a2 restarted
+[I 06:53:49.946 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (122.226.185.126) 1.19ms
+[I 06:55:22.019 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+2017-09-20 07:02:26.106937: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:02:26.106984: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:02:26.107005: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:02:26.107010: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:02:26.107014: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 07:04:43.706 NotebookApp] Kernel restarted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+[I 07:05:21.354 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:05:26.827 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[W 07:05:39.998 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:05:40.206 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (122.226.185.127) 0.89ms
+[E 07:05:42.452 NotebookApp] Uncaught exception GET /api/kernels/f1f6ab89-490a-4646-bf02-3cc68873c7a2/channels?session_id=303B7E8B61C047EE9EEA92857A9D02C3 (67.216.210.212)
+    HTTPServerRequest(protocol='http', host='104.198.105.34:8000', method='GET', uri='/api/kernels/f1f6ab89-490a-4646-bf02-3cc68873c7a2/channels?session_id=303B7E8B61C047EE9EEA92857A9D02C3', version='HTTP/1.1', remote_ip='67.216.210.212', headers={'Origin': 'http://104.198.105.34:8000', 'Upgrade': 'websocket', 'Sec-Websocket-Extensions': 'x-webkit-deflate-frame', 'Sec-Websocket-Version': '13', 'Connection': 'Upgrade', 'Sec-Websocket-Key': 'ayVRtVdIWuB8QS6/CTXrcg==', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38', 'Host': '104.198.105.34:8000', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache'})
+    Traceback (most recent call last):
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 188, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+2017-09-20 07:05:48.923082: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:05:48.923109: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:05:48.923116: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:05:48.923121: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 07:05:48.923125: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 07:06:36.284 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:07:58.700 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:10:51.046 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:03.734 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:04.856 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:05.429 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:15.064 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:15.707 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:11:15.778 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:13:43.680 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[W 07:16:12.212 NotebookApp] WebSocket ping timeout after 119701 ms.
+[I 07:16:38.008 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:16:41.667 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:16:42.875 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:16:43.171 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:17:30.519 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (122.226.185.127) 0.94ms
+[I 07:18:54.818 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:18:58.418 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:18:59.651 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:19:06.724 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:19:08.236 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:19:34.981 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:23:35.883 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:25:37.359 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:26:53.618 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:27:38.198 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:03.264 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:05.622 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:09.961 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:12.325 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:18.967 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:19.376 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:46.731 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:48.672 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:28:55.911 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:00.653 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:02.175 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:14.974 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:17.838 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:19.891 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:29:20.920 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:10.833 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:18.198 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:18.789 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:27.628 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:35.502 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:35.603 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:53.676 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:58.377 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:30:58.530 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:33:37.926 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:33:56.725 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:20.495 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:27.572 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:35.123 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:41.965 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:42.647 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:44.159 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:45.034 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:57.753 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:34:58.749 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:35:00.567 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:35:11.268 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:35:11.838 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:35:13.694 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:35:17.549 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (183.131.161.163) 0.86ms
+[I 07:39:23.178 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:24.768 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:25.024 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:25.320 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:28.684 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:31.244 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:34.298 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:45.583 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:54.880 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:57.043 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:39:57.114 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:11.494 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:12.226 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:15.766 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:16.645 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:20.731 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:20.847 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:27.849 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:35.127 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:41.168 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:42.859 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:42.946 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:40:44.538 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:41:04.739 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:41:07.171 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:23.619 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:27.508 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:39.611 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:41.093 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:42.764 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:44.318 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:45.508 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:45.642 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:46.083 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:47.406 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:47.722 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:47.929 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:48.178 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:51:58.578 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:12.111 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:15.463 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:24.501 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:26.716 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:28.805 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:52:39.056 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:53:49.687 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:31.745 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:32.450 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:34.364 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:37.296 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:38.402 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:40.105 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:40.602 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:41.622 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:42.147 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:42.923 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:42.998 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:46.188 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:48.763 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:50.020 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:51.053 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:52.712 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:56.736 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:55:58.289 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:01.995 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:02.789 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:03.211 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:04.123 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:23.829 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:25.719 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:56:26.178 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:59:40.939 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:59:44.174 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 07:59:45.405 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:01.811 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:01.939 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:20.325 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:21.955 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:25.484 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:25.845 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:55.677 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:57.496 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:58.793 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:00:59.424 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:01:10.828 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:01:11.861 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:01:11.981 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:01:13.668 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:01:13.744 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:04:29.588 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:04:30.380 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:05:02.123 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:14:26.762 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:30:34.814 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:30:34.989 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:32:27.221 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:35:36.047 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:35:42.000 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:35:45.499 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:35:52.143 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:36:21.251 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:36:23.009 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:36:27.832 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:36:53.574 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:36:54.380 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:18.716 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:19.205 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:33.827 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:40.827 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:50.908 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:37:52.351 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:18.256 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:22.917 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:31.411 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:39.447 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:54.103 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:39:59.629 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:01.698 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:01.879 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:04.949 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:06.982 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:08.513 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:11.490 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:32.283 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:36.006 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:36.250 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:40.244 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:41.754 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:42.176 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:47.040 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:40:51.113 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:21.043 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:21.225 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:23.183 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:24.291 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:29.195 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:37.809 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:38.627 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:53.816 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:55.843 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:57.604 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:41:58.097 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:42:10.530 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:44:03.175 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:44:49.957 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:46:36.560 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:46:43.316 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:46:54.104 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:47:16.501 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:47:42.869 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:51:37.130 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:51:51.539 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:52:20.038 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 08:53:33.442 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[W 09:00:11.443 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:14:58.829 NotebookApp] WebSocket ping timeout after 119576 ms.
+[I 10:18:24.700 NotebookApp] 302 GET / (169.54.233.123) 0.36ms
+[W 11:11:05.286 NotebookApp] WebSocket ping timeout after 119656 ms.
+[W 13:11:14.935 NotebookApp] WebSocket ping timeout after 119666 ms.
+[W 13:16:22.677 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 13:19:08.805 NotebookApp] 302 GET /notebooks/gan_outputs_tf.png (36.102.208.25) 0.98ms
+[I 13:21:16.112 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:23:15.694 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:25:22.741 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:27:51.648 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:28:06.602 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[W 13:28:11.086 NotebookApp] WebSocket ping timeout after 119654 ms.
+[E 13:28:12.111 NotebookApp] Uncaught exception GET /api/kernels/f1f6ab89-490a-4646-bf02-3cc68873c7a2/channels?session_id=082F60BE907546069FEA999449C82F46 (122.226.185.101)
+    HTTPServerRequest(protocol='http', host='104.198.105.34:8000', method='GET', uri='/api/kernels/f1f6ab89-490a-4646-bf02-3cc68873c7a2/channels?session_id=082F60BE907546069FEA999449C82F46', version='HTTP/1.1', remote_ip='122.226.185.101', headers={'Origin': 'http://104.198.105.34:8000', 'Upgrade': 'websocket', 'Sec-Websocket-Extensions': 'x-webkit-deflate-frame', 'Sec-Websocket-Version': '13', 'Connection': 'Upgrade', 'Sec-Websocket-Key': 'NBtAtOq+WznaFe2mgkL/UA==', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38', 'Host': '104.198.105.34:8000', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache'})
+    Traceback (most recent call last):
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 188, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/larry/assignment1/.env/local/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 13:28:13.546 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:28:14.234 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:28:27.765 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:28:39.303 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:28:59.603 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:29:03.856 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:29:07.287 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:29:11.618 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:15.846 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:19.348 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:20.556 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:21.704 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:24.533 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:24.740 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:30:59.180 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:07.454 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:11.351 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:13.064 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:14.954 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:23.885 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:28.906 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:31.269 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:35.383 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:38.188 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:50.084 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:31:59.652 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:32:24.947 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:32:29.636 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:33:12.558 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:33:26.280 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:33:51.396 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:35:26.966 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:40:26.248 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:42:41.522 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:42:45.486 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:42:49.113 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:42:57.831 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:42:59.302 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:45:18.879 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:45:21.561 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:45:24.659 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:45:34.976 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:46:37.173 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:46:38.306 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:47:03.101 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:47:03.299 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:47:04.762 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:47:06.743 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:47:32.567 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:54:33.309 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:56:44.684 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:57:04.606 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:57:17.550 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:57:56.943 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:57:59.944 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:00.118 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:00.283 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:01.473 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:01.863 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:03.238 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:58:49.091 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:02.111 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:09.922 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:10.100 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:15.693 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:20.315 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:26.570 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:27.115 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:27.701 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:28.635 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:28.810 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:29.405 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 13:59:41.077 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:00:21.804 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:00:23.589 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:00:52.980 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:00:57.111 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:01:04.776 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:01:11.171 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:01:29.218 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:02:40.748 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:02:41.224 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:04:39.779 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:04:40.396 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:04:45.929 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:05:38.279 NotebookApp] Kernel interrupted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+[I 14:05:40.287 NotebookApp] Kernel restarted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+2017-09-20 14:05:46.755823: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:05:46.755865: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:05:46.755872: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:05:46.755877: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:05:46.755882: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 14:05:56.508 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:07:52.599 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:07:54.214 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:07:58.333 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:08:01.209 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:08:52.258 NotebookApp] Kernel interrupted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+[I 14:08:56.295 NotebookApp] Kernel restarted: f1f6ab89-490a-4646-bf02-3cc68873c7a2
+2017-09-20 14:09:02.887465: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:09:02.887498: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:09:02.887504: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:09:02.887509: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-09-20 14:09:02.887514: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 14:11:52.656 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:13:17.662 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:17:22.483 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:21:49.718 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:23:26.892 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:24:49.784 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:25:15.006 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:25:42.293 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:28:45.557 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:29:27.657 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
+[I 14:33:24.176 NotebookApp] Saving file at /GANs-TensorFlow.ipynb
