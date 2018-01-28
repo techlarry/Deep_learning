@@ -1,0 +1,353 @@
+[I 03:19:12.805 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 03:19:12.840 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:19:12.840 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:19:12.845 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 03:19:12.845 NotebookApp] 0 active kernels 
+[I 03:19:12.845 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 03:19:12.845 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:19:21.638 NotebookApp] 302 GET / (183.209.98.126) 0.52ms
+[W 07:03:27.991 NotebookApp] Session not found: session_id=u'4aff37eb-bd77-4a71-9ef0-a8948d38bc02'
+[W 07:03:27.993 NotebookApp] 404 DELETE /api/sessions/4aff37eb-bd77-4a71-9ef0-a8948d38bc02 (67.216.210.212) 6.12ms referer=http://104.198.105.34:8000/notebooks/two_layer_net.ipynb
+[I 07:03:29.095 NotebookApp] Kernel started: 14757b8c-f121-49c3-ba9a-8e893e55b318
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[W 09:12:59.830 NotebookApp] WebSocket ping timeout after 119746 ms.
+[C 10:26:25.097 NotebookApp] received signal 15, stopping
+[I 10:26:25.120 NotebookApp] Shutting down kernels
+[I 10:26:25.230 NotebookApp] Kernel shutdown: 14757b8c-f121-49c3-ba9a-8e893e55b318
+[I 00:00:45.462 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 00:00:45.687 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 00:00:45.688 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 00:00:45.695 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 00:00:45.695 NotebookApp] 0 active kernels 
+[I 00:00:45.695 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 00:00:45.695 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:00:45.972 NotebookApp] 302 GET / (36.149.196.73) 0.66ms
+[I 00:01:18.694 NotebookApp] Kernel started: f4989497-479f-4ff6-903b-a25fb5e1ebe2
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 00:04:22.988 NotebookApp] Kernel started: 45088af2-b8f6-487b-86be-b5a67531a8c5
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 00:43:39.794 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:45:39.342 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:47:39.088 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:51:42.276 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:08:52.225 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:10:52.073 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:12:56.945 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:14:57.945 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 02:50:34.377 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:50:36.275 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:50:44.918 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:51:11.733 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:52:19.404 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:53:42.433 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:54:10.094 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:54:10.812 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:54:39.050 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 02:55:15.106 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:55:52.271 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:55:54.927 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:56:34.962 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:56:38.984 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 02:57:24.806 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:58:07.564 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:58:07.804 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:58:13.275 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:58:28.106 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 02:58:38.879 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 02:59:51.284 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:10.512 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:51.936 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:52.274 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:54.501 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:54.904 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:55.864 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:00:56.126 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:01:07.783 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:01:11.674 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:01:12.362 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:17:58.561 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:18:02.659 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:18:41.103 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:18:43.431 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:18:43.988 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:18:44.283 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:19:25.976 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:21:26.343 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:23:11.000 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:23:46.850 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:24:00.873 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:25:12.804 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:25:50.332 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:26:01.087 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:26:20.062 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:26:20.494 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:26:48.193 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:06.411 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:06.668 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:27.058 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:28.092 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:31.841 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:34.258 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:41.110 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:58.911 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:27:59.375 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:01.587 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:01.813 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:02.091 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:04.612 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:05.928 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:28:23.479 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:29:31.457 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:30:22.372 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:38:10.408 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:38:16.905 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:38:19.007 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:38:31.305 NotebookApp] 302 GET / (139.162.79.87) 0.35ms
+[I 03:39:26.606 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:39:33.225 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:39:33.695 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:40:20.467 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:40:58.912 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:41:53.454 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 03:41:53.646 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 03:42:18.847 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:42:20.594 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:42:26.926 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:42:27.405 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:42:42.213 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:42:42.527 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:43:13.493 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:07.520 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:18.775 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:19.276 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:20.449 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:44:27.229 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:44.817 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:44:55.881 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:45:05.684 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:45:26.418 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:45:28.911 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:45:43.166 NotebookApp] Kernel interrupted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[I 03:45:50.896 NotebookApp] Kernel restarted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 03:46:20.314 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:47:26.652 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:47:26.867 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:48:21.038 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:49:05.986 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:50:55.901 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:51:02.152 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:52:21.085 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:54:53.905 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:56:14.118 NotebookApp] Kernel interrupted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[I 03:56:14.402 NotebookApp] Kernel interrupted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/home/larry/.local/lib/python2.7/site-packages/IPython/core/magics/script.py", line 272, in kill_bg_processes
+    time.sleep(0.1)
+KeyboardInterrupt
+[I 03:56:14.896 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 45088af2-b8f6-487b-86be-b5a67531a8c5 restarted
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 03:56:33.597 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 03:57:13.065 NotebookApp] Saving file at /cs231n/classifiers/neural_net.py
+[I 03:58:23.943 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 04:31:48.061 NotebookApp] Saving file at /two_layer_net.ipynb
+[W 06:58:40.832 NotebookApp] WebSocket ping timeout after 119839 ms.
+[W 09:37:11.119 NotebookApp] WebSocket ping timeout after 117091 ms.
+[I 10:06:32.650 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:08:33.388 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:10:32.537 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:12:31.714 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:12:43.495 NotebookApp] Kernel interrupted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[I 10:12:44.903 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 45088af2-b8f6-487b-86be-b5a67531a8c5 restarted
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 10:12:59.416 NotebookApp] Kernel restarted: 45088af2-b8f6-487b-86be-b5a67531a8c5
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 10:14:30.057 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:16:31.496 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:18:29.555 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:20:30.018 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:22:30.017 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:23:22.646 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:23:29.047 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:23:36.672 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:24:09.157 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:24:28.543 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:24:32.835 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:24:42.289 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:24:59.574 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:25:24.485 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:25:29.010 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:25:49.398 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:26:28.521 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:27:09.582 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:27:19.024 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:27:55.159 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:28:28.531 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:28:49.026 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:03.524 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:15.012 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:17.561 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:21.838 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:33.413 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:29:43.538 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:30:29.487 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:31:55.126 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:32:08.425 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:32:29.518 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:34:09.481 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:34:19.549 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:34:25.889 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:34:48.092 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:05.651 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:07.458 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:14.623 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:20.089 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:34.361 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:35:52.913 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:36:18.961 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:36:29.642 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:38:31.133 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:38:47.068 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:38:58.691 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:39:01.842 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:39:10.180 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 10:39:21.722 NotebookApp] Saving file at /two_layer_net.ipynb
+[C 10:44:00.665 NotebookApp] received signal 15, stopping
+[I 10:44:00.681 NotebookApp] Shutting down kernels
+[I 10:44:00.682 NotebookApp] Kernel shutdown: f4989497-479f-4ff6-903b-a25fb5e1ebe2
+[I 10:44:00.783 NotebookApp] Kernel shutdown: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[I 10:53:19.582 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 10:53:19.743 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 10:53:19.743 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 10:53:19.750 NotebookApp] Serving notebooks from local directory: /home/larry/assignment1
+[I 10:53:19.750 NotebookApp] 0 active kernels 
+[I 10:53:19.750 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8000/
+[I 10:53:19.750 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:53:39.667 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145): Kernel does not exist: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[W 10:53:40.057 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145) 492.83ms referer=None
+[W 10:53:44.431 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145): Kernel does not exist: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[W 10:53:44.431 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145) 2.40ms referer=None
+[W 10:53:46.301 NotebookApp] Kernel does not exist: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[W 10:53:46.301 NotebookApp] 404 POST /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/restart (36.149.68.145) 1.08ms referer=http://104.198.105.34:8000/notebooks/two_layer_net.ipynb
+[W 10:53:46.515 NotebookApp] Session not found: session_id=u'759f1ac9-f166-4ad8-b9e9-0de2c3ef8559'
+[W 10:53:46.516 NotebookApp] 404 DELETE /api/sessions/759f1ac9-f166-4ad8-b9e9-0de2c3ef8559 (36.149.68.145) 32.20ms referer=http://104.198.105.34:8000/notebooks/two_layer_net.ipynb
+[W 10:53:52.782 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145): Kernel does not exist: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[W 10:53:52.783 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145) 2.31ms referer=None
+[I 10:54:05.854 NotebookApp] Saving file at /two_layer_net.ipynb
+[W 10:54:10.131 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145): Kernel does not exist: 45088af2-b8f6-487b-86be-b5a67531a8c5
+[W 10:54:10.132 NotebookApp] 404 GET /api/kernels/45088af2-b8f6-487b-86be-b5a67531a8c5/channels?session_id=769FB62018F640E5891726F2E7C26AB7 (36.149.68.145) 2.42ms referer=None
+[I 10:54:11.920 NotebookApp] Kernel started: c7956e59-f482-40be-89bd-e349cf5a3b63
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 10:54:43.272 NotebookApp] Saving file at /two_layer_net.ipynb
+[W 10:56:59.793 NotebookApp] Session not found: session_id=u'9e3d1c9a-a78c-4165-9924-f4f8528b30fc'
+[W 10:56:59.793 NotebookApp] 404 DELETE /api/sessions/9e3d1c9a-a78c-4165-9924-f4f8528b30fc (36.149.68.145) 1.12ms referer=http://104.198.105.34:8000/notebooks/softmax.ipynb
+[I 10:56:59.983 NotebookApp] Kernel started: 3e04b302-a1c9-4042-bd29-a1227fdf1e33
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[W 10:59:34.695 NotebookApp] Notebook features.ipynb is not trusted
+[I 10:59:35.786 NotebookApp] Kernel started: 4485b7af-4ae2-465c-be4e-a4f84a5341b7
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 11:03:36.400 NotebookApp] Saving file at /features.ipynb
+[I 11:05:40.416 NotebookApp] Saving file at /features.ipynb
+[I 11:15:52.102 NotebookApp] Saving file at /features.ipynb
+[I 11:21:51.385 NotebookApp] Saving file at /features.ipynb
+[I 11:22:19.041 NotebookApp] Kernel started: d4e7c2bf-5b3f-49ed-9364-0953468e6242
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 11:23:51.959 NotebookApp] Saving file at /features.ipynb
+[I 11:24:03.738 NotebookApp] Saving file at /features.ipynb
+[I 11:24:46.373 NotebookApp] Saving file at /features.ipynb
+[I 11:25:50.900 NotebookApp] Saving file at /features.ipynb
+[I 11:25:51.921 NotebookApp] Saving file at /features.ipynb
+[I 11:27:52.086 NotebookApp] Saving file at /features.ipynb
+[I 11:29:46.542 NotebookApp] Saving file at /features.ipynb
+[I 11:30:12.257 NotebookApp] Saving file at /features.ipynb
+[I 11:31:12.290 NotebookApp] Kernel interrupted: 4485b7af-4ae2-465c-be4e-a4f84a5341b7
+[I 11:31:27.333 NotebookApp] Kernel interrupted: 4485b7af-4ae2-465c-be4e-a4f84a5341b7
+[I 11:31:55.137 NotebookApp] Saving file at /features.ipynb
+[I 11:31:56.559 NotebookApp] Kernel interrupted: 4485b7af-4ae2-465c-be4e-a4f84a5341b7
+[I 11:32:47.681 NotebookApp] Saving file at /features.ipynb
+[I 11:33:46.845 NotebookApp] Saving file at /features.ipynb
+[I 11:33:53.961 NotebookApp] Saving file at /features.ipynb
+[I 11:35:45.942 NotebookApp] Saving file at /features.ipynb
+[I 11:38:00.315 NotebookApp] Saving file at /svm.ipynb
+[I 11:39:23.608 NotebookApp] Kernel interrupted: d4e7c2bf-5b3f-49ed-9364-0953468e6242
+[I 11:39:25.709 NotebookApp] Kernel interrupted: d4e7c2bf-5b3f-49ed-9364-0953468e6242
+[I 11:39:28.040 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel d4e7c2bf-5b3f-49ed-9364-0953468e6242 restarted
+WARNING:root:kernel d4e7c2bf-5b3f-49ed-9364-0953468e6242 restarted
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 11:39:39.306 NotebookApp] Saving file at /svm.ipynb
+[I 11:39:40.320 NotebookApp] Saving file at /svm.ipynb
+[I 11:40:06.174 NotebookApp] Saving file at /svm.ipynb
+[I 11:41:59.653 NotebookApp] Saving file at /svm.ipynb
+[I 11:44:02.124 NotebookApp] Saving file at /svm.ipynb
+[I 11:48:50.471 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:49:09.681 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:50:44.842 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:51:39.109 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:51:39.431 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:51:39.690 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:51:42.816 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:51:43.167 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:52:17.210 NotebookApp] Saving file at /svm.ipynb
+[I 11:52:23.577 NotebookApp] Saving file at /svm.ipynb
+[I 11:52:38.114 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:52:40.312 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:52:41.612 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:52:45.141 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:52:51.059 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:52:58.406 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:52:58.666 NotebookApp] Saving file at /cs231n/classifiers/linear_svm.py
+[I 11:53:03.740 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:53:22.614 NotebookApp] Kernel interrupted: d4e7c2bf-5b3f-49ed-9364-0953468e6242
+[I 11:53:28.068 NotebookApp] Kernel restarted: d4e7c2bf-5b3f-49ed-9364-0953468e6242
+WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
+[I 11:54:57.375 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:54:57.825 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:54:58.021 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:55:49.445 NotebookApp] Saving file at /svm.ipynb
+[I 11:56:19.869 NotebookApp] Kernel interrupted: c7956e59-f482-40be-89bd-e349cf5a3b63
+[I 11:57:12.621 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 11:57:57.528 NotebookApp] Saving file at /svm.ipynb
+[I 11:57:59.120 NotebookApp] Saving file at /cs231n/classifiers/linear_classifier.py
+[I 11:59:17.269 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 11:59:26.832 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 11:59:42.910 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 12:00:02.693 NotebookApp] Saving file at /svm.ipynb
+[I 12:00:38.909 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 12:00:44.623 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 12:03:28.007 NotebookApp] Saving file at /features.ipynb
+[I 12:05:27.966 NotebookApp] Saving file at /features.ipynb
+[I 12:07:29.338 NotebookApp] Saving file at /features.ipynb
+[I 12:09:28.278 NotebookApp] Saving file at /features.ipynb
+[I 12:10:52.164 NotebookApp] Kernel interrupted: 4485b7af-4ae2-465c-be4e-a4f84a5341b7
+[I 12:10:59.344 NotebookApp] Saving file at /features.ipynb
+[I 12:11:27.466 NotebookApp] Saving file at /features.ipynb
+[I 12:13:28.170 NotebookApp] Saving file at /features.ipynb
+[I 12:16:20.598 NotebookApp] Saving file at /features.ipynb
+[I 12:20:21.374 NotebookApp] Saving file at /features.ipynb
+[I 12:25:06.614 NotebookApp] Saving file at /features.ipynb
+[I 12:25:34.590 NotebookApp] Saving file at /features.ipynb
+[I 12:26:50.220 NotebookApp] Saving file at /features.ipynb
+[I 12:26:56.746 NotebookApp] Saving file at /features.ipynb
+[I 12:27:03.609 NotebookApp] Saving file at /features.ipynb
+[I 12:27:04.879 NotebookApp] Saving file at /features.ipynb
+[I 12:27:23.327 NotebookApp] Saving file at /features.ipynb
+[I 12:27:59.630 NotebookApp] Saving file at /features.ipynb
+[I 12:31:35.244 NotebookApp] Saving file at /features.ipynb
+[I 12:32:08.280 NotebookApp] Saving file at /features.ipynb
+[I 12:32:10.278 NotebookApp] Saving file at /features.ipynb
+[I 12:32:13.918 NotebookApp] Saving file at /features.ipynb
+[I 12:32:15.294 NotebookApp] Saving file at /features.ipynb
+[I 12:32:42.194 NotebookApp] Saving file at /features.ipynb
+[I 12:34:40.712 NotebookApp] Saving file at /features.ipynb
+[I 12:34:42.594 NotebookApp] Saving file at /features.ipynb
+[I 12:34:43.495 NotebookApp] Saving file at /features.ipynb
+[I 12:34:51.521 NotebookApp] Saving file at /features.ipynb
+[I 12:34:53.763 NotebookApp] Saving file at /features.ipynb
+[I 12:35:01.455 NotebookApp] Saving file at /features.ipynb
+[I 12:35:03.642 NotebookApp] Saving file at /features.ipynb
+[I 12:35:04.689 NotebookApp] Saving file at /features.ipynb
