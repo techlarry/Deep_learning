@@ -1,119 +1,105 @@
+import numpy as np
 
+def update_parameters_with_gd_test_case():
+    np.random.seed(1)
+    learning_rate = 0.01
+    W1 = np.random.randn(2,3)
+    b1 = np.random.randn(2,1)
+    W2 = np.random.randn(3,3)
+    b2 = np.random.randn(3,1)
 
-
-<!DOCTYPE HTML>
-<html>
-
-<head>
-    <meta charset="utf-8">
-
-    <title>Jupyter Hub</title>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    dW1 = np.random.randn(2,3)
+    db1 = np.random.randn(2,1)
+    dW2 = np.random.randn(3,3)
+    db2 = np.random.randn(3,1)
     
+    parameters = {"W1": W1, "b1": b1, "W2": W2, "b2": b2}
+    grads = {"dW1": dW1, "db1": db1, "dW2": dW2, "db2": db2}
     
-    <link rel="stylesheet" href="/hub/static/css/style.min.css?v=d96e0760e0c2b7356ce89635b646c350" type="text/css"/>
+    return parameters, grads, learning_rate
+
+"""
+def update_parameters_with_sgd_checker(function, inputs, outputs):
+    if function(inputs) == outputs:
+        print("Correct")
+    else:
+        print("Incorrect")
+"""
+
+def random_mini_batches_test_case():
+    np.random.seed(1)
+    mini_batch_size = 64
+    X = np.random.randn(12288, 148)
+    Y = np.random.randn(1, 148) < 0.5
+    return X, Y, mini_batch_size
+
+def initialize_velocity_test_case():
+    np.random.seed(1)
+    W1 = np.random.randn(2,3)
+    b1 = np.random.randn(2,1)
+    W2 = np.random.randn(3,3)
+    b2 = np.random.randn(3,1)
+    parameters = {"W1": W1, "b1": b1, "W2": W2, "b2": b2}
+    return parameters
+
+def update_parameters_with_momentum_test_case():
+    np.random.seed(1)
+    W1 = np.random.randn(2,3)
+    b1 = np.random.randn(2,1)
+    W2 = np.random.randn(3,3)
+    b2 = np.random.randn(3,1)
+
+    dW1 = np.random.randn(2,3)
+    db1 = np.random.randn(2,1)
+    dW2 = np.random.randn(3,3)
+    db2 = np.random.randn(3,1)
+    parameters = {"W1": W1, "b1": b1, "W2": W2, "b2": b2}
+    grads = {"dW1": dW1, "db1": db1, "dW2": dW2, "db2": db2}
+    v = {'dW1': np.array([[ 0.,  0.,  0.],
+        [ 0.,  0.,  0.]]), 'dW2': np.array([[ 0.,  0.,  0.],
+        [ 0.,  0.,  0.],
+        [ 0.,  0.,  0.]]), 'db1': np.array([[ 0.],
+        [ 0.]]), 'db2': np.array([[ 0.],
+        [ 0.],
+        [ 0.]])}
+    return parameters, grads, v
     
-    <script src="/hub/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce" type="text/javascript" charset="utf-8"></script>
-    <script>
-      require.config({
-          
-          urlArgs: "v=(&#39;20170805002245&#39;,)",
-          
-          baseUrl: '/hub/static/js',
-          paths: {
-            components: '../components',
-            jquery: '../components/jquery/jquery.min',
-            bootstrap: '../components/bootstrap/js/bootstrap.min',
-            moment: "../components/moment/moment",
-          },
-          shim: {
-            bootstrap: {
-              deps: ["jquery"],
-              exports: "bootstrap"
-            },
-          }
-      });
-    </script>
+def initialize_adam_test_case():
+    np.random.seed(1)
+    W1 = np.random.randn(2,3)
+    b1 = np.random.randn(2,1)
+    W2 = np.random.randn(3,3)
+    b2 = np.random.randn(3,1)
+    parameters = {"W1": W1, "b1": b1, "W2": W2, "b2": b2}
+    return parameters
+
+def update_parameters_with_adam_test_case():
+    np.random.seed(1)
+    v, s = ({'dW1': np.array([[ 0.,  0.,  0.],
+         [ 0.,  0.,  0.]]), 'dW2': np.array([[ 0.,  0.,  0.],
+         [ 0.,  0.,  0.],
+         [ 0.,  0.,  0.]]), 'db1': np.array([[ 0.],
+         [ 0.]]), 'db2': np.array([[ 0.],
+         [ 0.],
+         [ 0.]])}, {'dW1': np.array([[ 0.,  0.,  0.],
+         [ 0.,  0.,  0.]]), 'dW2': np.array([[ 0.,  0.,  0.],
+         [ 0.,  0.,  0.],
+         [ 0.,  0.,  0.]]), 'db1': np.array([[ 0.],
+         [ 0.]]), 'db2': np.array([[ 0.],
+         [ 0.],
+         [ 0.]])})
+    W1 = np.random.randn(2,3)
+    b1 = np.random.randn(2,1)
+    W2 = np.random.randn(3,3)
+    b2 = np.random.randn(3,1)
+
+    dW1 = np.random.randn(2,3)
+    db1 = np.random.randn(2,1)
+    dW2 = np.random.randn(3,3)
+    db2 = np.random.randn(3,1)
     
-    <script type="text/javascript">
-      window.jhdata = {
-        base_url: "/hub/",
-        prefix: "/",
-        
-      }
-    </script>
-
+    parameters = {"W1": W1, "b1": b1, "W2": W2, "b2": b2}
+    grads = {"dW1": dW1, "db1": db1, "dW2": dW2, "db2": db2}
     
+    return parameters, grads, v, s
     
-
-</head>
-
-<body>
-
-<noscript>
-  <div id='noscript'>
-    Jupyter Hub requires JavaScript.<br>
-    Please enable it to proceed.
-  </div>
-</noscript>
-
-<div id="header" class="navbar navbar-static-top">
-  <div class="container">
-  <span id="jupyterhub-logo" class="pull-left"><a href="/hub/"><img src='/hub/logo' alt='JupyterHub' class='jpy-logo' title='Home'/></a></span>
-
-  
-
-
-  
-  
-  </div>
-</div>
-
-
-
-
-<div class="container">
-  <p>
-    Please login to your notebook through 
-    <a href="https://www.coursera.org">www.coursera.org</a>.
-  </p>
-</div>
-
-
-
-
-
-
-
-<div class="modal fade" id="error-dialog" tabindex="-1" role="dialog" aria-labelledby="error-label" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="error-label">Error</h4>
-      </div>
-      <div class="modal-body">
-        
-  <div class="ajax-error">
-    The error
-  </div>
-
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-        <button type="button" class="btn btn-primary" data-dismiss="modal" data-dismiss="modal">OK</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-</body>
-
-</html>
